@@ -3,10 +3,6 @@
 <html>
 <head>
 Elysse’s Travel Diary</title>
-<style> 
-body {background-color: darkgray; color:black;} 
-div {display: flex; gap: 20px;}
-</style>
 </head>
 <body>
 <h1> Where I’ve Travelled to in the Past Year!! </h1>
