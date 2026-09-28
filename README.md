@@ -1,8 +1,7 @@
-# travel-dairies
+# Elysse's Travel Diary
 <!DOCTYPE html>
 <html>
 <head>
-Elysse’s Travel Diary</title>
 </head>
 <body>
 <h1> Where I’ve Travelled to in the Past Year!! </h1>
